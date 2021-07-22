@@ -1,6 +1,6 @@
 Hallo Gits.iD !
 
-Saya Novan Tiano mohon izin mengumpulkan jawaban dari soal Technical Test. 
+Saya Novan Tiano dari STMIK Mardira Indonesia mohon izin mengumpulkan jawaban dari soal Technical Test. 
 Dimana projek yang saya buat ini bertujuan sebagai persyaratan untuk tahapan seleksi Magang di Gits.iD.
 Semua Projek aplikasi yang saya buat digabung menjadi satu dalam repository. Berikut lima Aplikasi yang dibuat :
 
@@ -12,4 +12,6 @@ Semua Projek aplikasi yang saya buat digabung menjadi satu dalam repository. Ber
 
 Bahasa pemrograman yang dipakai dalam aplikasi kali ini, saya menggunakan bahasa php dengan dibantu dengan html sebgai tampilannya.
 
-Terima Kasih.
+Terima Kasih
+
+Novan Tiano
